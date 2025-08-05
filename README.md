@@ -43,6 +43,7 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - Training Diffusion Models with Reinforcement Learning, [[pdf]](https://arxiv.org/abs/2305.13301
 )
 - Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards, [[pdf]](https://arxiv.org/pdf/2501.06655)
+- Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation, [[pdf]](https://arxiv.org/pdf/2412.01243v2)
 - DanceGRPO: Unleashing GRPO on Visual Generation, [[pdf]](https://arxiv.org/pdf/2505.07818)
 - Flow-GRPO: Training Flow Matching Models via Online RL, [[pdf]](https://arxiv.org/pdf/2505.05470)
 - MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE, [[pdf]](https://arxiv.org/pdf/2507.21802)
