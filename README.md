@@ -87,6 +87,7 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - Feedback Efficient Online Fine-Tuning of Diffusion Models, [[pdf]](https://arxiv.org/pdf/2402.16359)
 - Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models, [[pdf]](https://arxiv.org/abs/2405.00760)
 - Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward, [[pdf]](https://arxiv.org/pdf/2411.15247)
+- InstructVideo: Instructing Video Diffusion Models with Human Feedback, [[pdf]](https://arxiv.org/abs/2312.12490)
 
 
 ### Technical Reports 
