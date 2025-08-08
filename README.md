@@ -40,8 +40,8 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 ## Alignment on Diffusion/Flow Models
 ### Reinforcement Learning-based (RLHF)
 - DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models, [[pdf]](https://arxiv.org/pdf/2305.16381)
-- Training Diffusion Models with Reinforcement Learning, [[pdf]](https://arxiv.org/abs/2305.13301
-)
+- Training Diffusion Models with Reinforcement Learning, [[pdf]](https://arxiv.org/abs/2305.13301)
+- Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning, [[pdf]](https://arxiv.org/pdf/2502.01819)
 - Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards, [[pdf]](https://arxiv.org/pdf/2501.06655)
 - Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation, [[pdf]](https://arxiv.org/pdf/2412.01243v2)
 - DanceGRPO: Unleashing GRPO on Visual Generation, [[pdf]](https://arxiv.org/pdf/2505.07818)
@@ -78,7 +78,7 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - Flow-DPO: Improving Video Generation with Human Feedback, [[pdf]](https://arxiv.org/abs/2501.13918)
 - HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment, [[pdf]](https://arxiv.org/pdf/2502.01690)
 - Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models, [[pdf]](https://openreview.net/pdf?id=iJi7nz5Cxc)
-
+- Fine-Tuning Diffusion Generative Models via Rich Preference Optimization, [[pdf]](https://arxiv.org/pdf/2503.11720)
 
 ### Reward Feedback Learning
 - ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation, [[pdf]](https://arxiv.org/pdf/2304.05977)
