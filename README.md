@@ -47,6 +47,8 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - DanceGRPO: Unleashing GRPO on Visual Generation, [[pdf]](https://arxiv.org/pdf/2505.07818)
 - Flow-GRPO: Training Flow Matching Models via Online RL, [[pdf]](https://arxiv.org/pdf/2505.05470)
 - MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE, [[pdf]](https://arxiv.org/pdf/2507.21802)
+- TempFlow-GRPO: When Timing Matters for GRPO in Flow Models, [[pdf]](https://arxiv.org/pdf/2508.04324)
+- Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning, [[pdf]](https://arxiv.org/pdf/2508.20751)
 
 ### DPO-based (referred to [here](https://github.com/xie-lab-ml/awesome-alignment-of-diffusion-models))
 - Diffusion Model Alignment Using Direct Preference Optimization, [[pdf]](https://arxiv.org/pdf/2311.12908)
@@ -98,6 +100,7 @@ We only list the reports using alignment methods:
 - Seedance 1.0: Exploring the Boundaries of Video Generation Models, [[pdf]](https://arxiv.org/pdf/2506.09113)
 - Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model, [[pdf]](https://arxiv.org/pdf/2502.10248)
 - Qwen-Image Technical Report, [[pdf]](https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Qwen_Image.pdf)
+- Skywork-UniPic2, [[pdf]](https://github.com/SkyworkAI/UniPic/blob/main/UniPic-2/assets/pdf/UNIPIC2.pdf)
 
 ## Alignment on AR models (referred to [here](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey))
 - Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step, [[pdf]](https://arxiv.org/abs/2501.13926)
@@ -112,6 +115,8 @@ We only list the reports using alignment methods:
 - CoT-lized Diffusion: Let’s Reinforce T2I Generation Step-by-step, [[pdf]](https://arxiv.org/pdf/2507.04451) 
 - X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again, [[pdf]](https://arxiv.org/pdf/2507.22058)
 - T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT, [[pdf]](https://arxiv.org/pdf/2505.00703)
+- AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning, [[pdf]](https://arxiv.org/pdf/2508.06924)
+
 
 ## Benchmarks & Reward Models
 **Benchmarks**
@@ -142,6 +147,7 @@ We only list the reports using alignment methods:
 - VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation, [[pdf]](https://arxiv.org/pdf/2412.21059)
 - Unified Reward Model for Multimodal Understanding and Generation, [[pdf]](https://arxiv.org/pdf/2503.05236)
 - LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment, [[pdf]](https://arxiv.org/pdf/2412.04814)
+- HPSv3: Towards Wide-Spectrum Human Preference Score, [[pdf]](https://arxiv.org/pdf/2508.03789)
 
 ## Alignment with Prompt Engineering
 - Optimizing Prompts for Text-to-Image Generation, [[pdf]](https://arxiv.org/pdf/2212.09611)
