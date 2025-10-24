@@ -1,5 +1,5 @@
 # Awesome-Visual-Generation-Alignment-Survey
-The collection of awesome papers on the aligement of visual generation models (including AR and diffusion models)
+The collection of awesome papers on the alignment of visual generation models (including AR and diffusion models)
 
 We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffusion-models) as a reference.
 
@@ -49,6 +49,17 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE, [[pdf]](https://arxiv.org/pdf/2507.21802), 2025.07
 - TempFlow-GRPO: When Timing Matters for GRPO in Flow Models, [[pdf]](https://arxiv.org/pdf/2508.04324), 2025.08
 - Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning, [[pdf]](https://arxiv.org/pdf/2508.20751), 2025.08
+- DiffusionNFT: Online Diffusion Reinforcement with Forward Process, [[pdf]](https://arxiv.org/pdf/2509.16117), 2025.09
+- BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models, [[pdf]](https://arxiv.org/pdf/2509.06040), 2025.09
+- Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models, [[pdf]](https://arxiv.org/pdf/2509.25050), 2025.09
+- PCPO: Proportionate Credit Policy Optimization for Aligning Image Generation Models, [[pdf]](https://arxiv.org/pdf/2509.25774), 2025.09
+- Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching, [[pdf]](https://arxiv.org/pdf/2509.05952), 2025.09
+- Dynamic-TreeRPO: Breaking the Independent Trajectory Bottleneck with Structured Sampling, [[pdf]](https://arxiv.org/pdf/2509.23352), 2025.09
+- G^2RPO: Granular GRPO for Precise Reward in Flow Models, [[pdf]](https://arxiv.org/pdf/2510.01982), 2025.10
+- Reinforcing Diffusion Models by Direct Group Preference Optimization, [[pdf]](https://arxiv.org/pdf/2510.08425), 2025.10
+- Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models, [[pdf]](https://arxiv.org/pdf/2510.02654), 2025.10
+- Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning, [[pdf]](https://arxiv.org/pdf/2510.14256), 2025.10
+- Self-Forcing++: Towards Minute-Scale High-Quality Video Generation, [[pdf]](https://arxiv.org/pdf/2510.02283), 2025.10
 
 ### DPO-based (referred to [here](https://github.com/xie-lab-ml/awesome-alignment-of-diffusion-models))
 - Diffusion Model Alignment Using Direct Preference Optimization, [[pdf]](https://arxiv.org/pdf/2311.12908), 2023.11
@@ -81,6 +92,8 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - Fine-Tuning Diffusion Generative Models via Rich Preference Optimization, [[pdf]](https://arxiv.org/pdf/2503.11720), 2025.03
 - D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples, [[pdf]](https://arxiv.org/abs/2505.22002), 2025.05
 - Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences, [[pdf]](https://arxiv.org/abs/2506.02698), 2025.06
+- Follow-Your-Preference: Towards Preference-Aligned Image Inpainting, [[pdf]](https://arxiv.org/pdf/2509.23082), 2025.09
+- Towards Better Optimization For Listwise Preference in Diffusion Models, [[pdf]](https://arxiv.org/pdf/2510.01540), 2025.10
 
 ### Reward Feedback Learning
 - ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation, [[pdf]](https://arxiv.org/pdf/2304.05977), 2023.04
@@ -91,6 +104,8 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward, [[pdf]](https://arxiv.org/pdf/2411.15247), 2024.11
 - InstructVideo: Instructing Video Diffusion Models with Human Feedback, [[pdf]](https://arxiv.org/abs/2312.12490), 2023.12
 - IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation, [[pdf]](https://arxiv.org/abs/2410.07171), 2024.10
+- Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference, [[pdf]](https://arxiv.org/pdf/2509.06942), 2025.09
+- Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization, [[pdf]](https://arxiv.org/pdf/2510.14255), 2025.10
 
 
 ### Technical Reports 
@@ -99,8 +114,10 @@ We only list the reports using alignment methods:
 - Seedream 2.0: A native chinese-english bilingual image generation foundation model, [[pdf]](https://arxiv.org/pdf/2503.07703), 2025.03
 - Seedream 3.0 technical report, [[pdf]](https://arxiv.org/pdf/2504.11346), 2025.04
 - Seedance 1.0: Exploring the Boundaries of Video Generation Models, [[pdf]](https://arxiv.org/pdf/2506.09113), 2025.06
+- Seedream 4.0: Toward Next-generation Multimodal Image Generation, [[pdf]](https://arxiv.org/pdf/2509.20427), 2025.09
 - Qwen-Image Technical Report, [[pdf]](https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Qwen_Image.pdf), 2025.08
 - Skywork-UniPic2, [[pdf]](https://github.com/SkyworkAI/UniPic/blob/main/UniPic-2/assets/pdf/UNIPIC2.pdf), 2025.09
+- BLIP3o-NEXT: Next Frontier of Native Image Generation, [[pdf]](https://arxiv.org/pdf/2510.15857), 2025.10
 
 ## Alignment on AR models (referred to [here](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey))
 - Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step, [[pdf]](https://arxiv.org/abs/2501.13926), 2025.01
@@ -116,6 +133,9 @@ We only list the reports using alignment methods:
 - X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again, [[pdf]](https://arxiv.org/pdf/2507.22058), 2025.07
 - T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT, [[pdf]](https://arxiv.org/pdf/2505.00703), 2025.05
 - AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning, [[pdf]](https://arxiv.org/pdf/2508.06924), 2025.08
+- Group Critical-token Policy Optimization for Autoregressive Image Generation, [[pdf]](https://arxiv.org/pdf/2509.22485), 2025.09
+- STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation, [[pdf]](https://arxiv.org/pdf/2509.25027), 2025.09
+- Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking, [[pdf]](https://arxiv.org/abs/2509.12046), 2025.09
 
 
 ## Benchmarks & Reward Models
@@ -136,6 +156,7 @@ We only list the reports using alignment methods:
 - DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation, [[pdf]](https://arxiv.org/pdf/2406.16855), 2024.06
 - PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment, [[pdf]](https://openreview.net/pdf?id=1kFDrYCuSu), 2024.06
 - Video-Bench: Human-Aligned Video Generation Benchmark, [[pdf]](https://arxiv.org/pdf/2504.04907), 2025.04
+- ImageDoctor: Diagnosing Text-to-Image Generation via Grounded Image Reasoning, [[pdf]](https://arxiv.org/pdf/2510.01010), 2025.10
 
 **Reward Models**
 - Human Preference Score: Better Aligning Text-to-Image Models with Human Preference, [[pdf]](https://arxiv.org/pdf/2303.14420), 2023.03
@@ -148,6 +169,10 @@ We only list the reports using alignment methods:
 - Unified Reward Model for Multimodal Understanding and Generation, [[pdf]](https://arxiv.org/pdf/2503.05236), 2025.03
 - LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment, [[pdf]](https://arxiv.org/pdf/2412.04814), 2024.12
 - HPSv3: Towards Wide-Spectrum Human Preference Score, [[pdf]](https://arxiv.org/pdf/2508.03789), 2025.08
+- Rewarddance: Reward scaling in visual generation, [[pdf]](https://arxiv.org/pdf/2509.08826), 2025.09
+- Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization, [[pdf]](https://arxiv.org/pdf/2509.21871), 2025.09
+- EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling, [[pdf]](https://arxiv.org/pdf/2509.23909), 2025.09
+
 
 ## Alignment with Prompt Engineering
 - Optimizing Prompts for Text-to-Image Generation, [[pdf]](https://arxiv.org/pdf/2212.09611), 2022.12
