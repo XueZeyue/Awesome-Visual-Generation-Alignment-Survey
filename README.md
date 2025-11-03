@@ -172,7 +172,8 @@ We only list the reports using alignment methods:
 - Rewarddance: Reward scaling in visual generation, [[pdf]](https://arxiv.org/pdf/2509.08826), 2025.09
 - Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization, [[pdf]](https://arxiv.org/pdf/2509.21871), 2025.09
 - EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling, [[pdf]](https://arxiv.org/pdf/2509.23909), 2025.09
-
+- VideoScore2: Think before You Score in Generative Video Evaluation, [[pdf]](https://arxiv.org/abs/2509.22799), 2025.09
+- EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing, [[pdf]](https://arxiv.org/abs/2509.26346), 2025.09
 
 ## Alignment with Prompt Engineering
 - Optimizing Prompts for Text-to-Image Generation, [[pdf]](https://arxiv.org/pdf/2212.09611), 2022.12
