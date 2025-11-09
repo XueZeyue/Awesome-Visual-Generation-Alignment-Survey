@@ -55,6 +55,7 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - PCPO: Proportionate Credit Policy Optimization for Aligning Image Generation Models, [[pdf]](https://arxiv.org/pdf/2509.25774), 2025.09
 - Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching, [[pdf]](https://arxiv.org/pdf/2509.05952), 2025.09
 - Dynamic-TreeRPO: Breaking the Independent Trajectory Bottleneck with Structured Sampling, [[pdf]](https://arxiv.org/pdf/2509.23352), 2025.09
+- MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially Disentangled Attention and Identity-Aware Reinforcement Learning, [[pdf]](https://arxiv.org/pdf/2509.21953), 2025.09
 - G^2RPO: Granular GRPO for Precise Reward in Flow Models, [[pdf]](https://arxiv.org/pdf/2510.01982), 2025.10
 - Reinforcing Diffusion Models by Direct Group Preference Optimization, [[pdf]](https://arxiv.org/pdf/2510.08425), 2025.10
 - Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models, [[pdf]](https://arxiv.org/pdf/2510.02654), 2025.10
