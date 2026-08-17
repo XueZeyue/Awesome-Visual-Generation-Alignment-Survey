@@ -37,6 +37,10 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - Human Preference Score: Better Aligning Text-to-Image Models with Human Preference, [[pdf]](https://arxiv.org/pdf/2303.14420), 2023.03
 
 
+## Training Frameworks & Codebases
+
+- VeRL-Omni: Easy, fast, and stable RL post-training for diffusion, unified multimodal generative, and omni-modality models (FlowGRPO, DanceGRPO, GSPO, DiffusionNFT), [[code]](https://github.com/verl-project/verl-omni), [[docs]](https://verl-omni.readthedocs.io/en/latest/index.html)
+
 ## Alignment on Diffusion/Flow Models
 ### Reinforcement Learning-based (RLHF)
 - DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models, [[pdf]](https://arxiv.org/pdf/2305.16381), 2023.05
