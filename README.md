@@ -62,6 +62,8 @@ We also use this [repo](https://github.com/xie-lab-ml/awesome-alignment-of-diffu
 - Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning, [[pdf]](https://arxiv.org/pdf/2510.14256), 2025.10
 - Self-Forcing++: Towards Minute-Scale High-Quality Video Generation, [[pdf]](https://arxiv.org/pdf/2510.02283), 2025.10
 
+- MEND: RL For Flow Models via Proximal Velocity Matching, [[pdf]](https://arxiv.org/pdf/2610.05954), 2026.10
+
 ### DPO-based (referred to [here](https://github.com/xie-lab-ml/awesome-alignment-of-diffusion-models))
 - Diffusion Model Alignment Using Direct Preference Optimization, [[pdf]](https://arxiv.org/pdf/2311.12908), 2023.11
 - Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model, [[pdf]](https://arxiv.org/pdf/2311.13231), 2023.11
